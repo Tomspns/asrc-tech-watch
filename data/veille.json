@@ -1,0 +1,202 @@
+{
+  "lastUpdated": "2026-09-25",
+  "measurements": [
+    {
+      "date": "2026-09-25",
+      "horizon": "H3",
+      "frequency": "Chaque trimestre",
+      "objective": "Anticiper les technologies émergentes comme l’IA, l’informatique quantique...",
+      "itemsCollected": 5,
+      "itemsRelevant": 5,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 2,
+      "note": "Première mesure automatique : jusqu’à 5 articles pertinents collectés pour cet horizon.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-09-25",
+      "horizon": "H1",
+      "frequency": "Chaque semaine",
+      "objective": "Suivre les actualités, vulnérabilités et évolutions des systèmes, réseaux et de la cybersécurité",
+      "itemsCollected": 5,
+      "itemsRelevant": 5,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 0,
+      "note": "Première mesure automatique complétée avec 5 articles pertinents.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-09-25",
+      "horizon": "H2",
+      "frequency": "Chaque mois",
+      "objective": "Approfondir mes connaissances sur le Cloud, l’automatisation, les infrastructures réseau et les solutions de cybersécurité",
+      "itemsCollected": 3,
+      "itemsRelevant": 3,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 1,
+      "note": "Première mesure automatique en cours de complétion : moins de 5 articles pertinents disponibles.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cubWljcm9zb2Z0Lm",
+      "date": "2026-09-24",
+      "horizon": "H1",
+      "title": "Au-delà du ransomware : suivi du savoir-faire cohérent de Storm-2570 à travers les déploiements",
+      "summary": "Storm-2570 est un affilié de ransomware qui utilise des outils et des techniques post-compromission cohérents dans tous les déploiements impliquant les ransomwares Qilin, DragonForce, Anubis et BERT, et fournit des conseils pour aider les défenseurs à détecter et à perturber cette activité avant le déploiement du ranso",
+      "source": "Microsoft Security Blog",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "verified": false,
+      "tags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmNsb3VkZmxhcm",
+      "date": "2026-09-25",
+      "horizon": "H1",
+      "title": "Les agents peuvent désormais configurer la sécurité de votre site Web avec Turnstile Spin",
+      "summary": "Une mauvaise configuration de Turnstile en ignorant la validation backend laisse les sites exposés aux robots. Turnstile Spin corrige les configurations incomplètes en utilisant votre agent de codage IA préféré pour câbler la vérification côté serveur.",
+      "source": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "verified": false,
+      "tags": []
+    },
+    {
+      "id": "aHR0cHM6Ly90aGVoYWNrZXJuZXdzLm",
+      "date": "2026-09-25",
+      "horizon": "H1",
+      "title": "Le SOC n'a pas besoin de recommencer à zéro avec chaque alerte",
+      "summary": "Les responsables de la sécurité se demandent sans cesse si l’IA va produire une toute nouvelle classe de cyberattaques. Le changement le plus proche est plus discret et déjà visible : l’IA a rendu une attaque ratée peu coûteuse à réessayer. La version de routine ressemble à ceci. Un attaquant atterrit sur un compte clo",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "verified": false,
+      "tags": []
+    },
+    {
+      "id": "aHR0cHM6Ly9zZWMuY2xvdWRhcHBzLm",
+      "date": "2026-09-24",
+      "horizon": "H1",
+      "title": "Vulnérabilités de contournement de l'authentification du moteur Cisco Identity Services",
+      "summary": "Plusieurs vulnérabilités dans Cisco Identity Services Engine (ISE) et Cisco ISE Passive Identity Connector (ISE-PIC) pourraient permettre à un attaquant distant d'accéder ou de manipuler des données, d'obtenir des informations sensibles ou de provoquer un rechargement du certificat et des clés sur un appareil affecté.",
+      "source": "Cisco Security",
+      "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multiauth-bypass-sgD2HbL4?vs_f=Cisco%20Security%20Advisory%26vs_cat=Security%20Intelligence%26vs_type=RSS%26vs_p=Cisco%20Identity%20Services%20Engine%20Authentication%20Bypass%20Vulnerabilities%26vs_k=1",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS",
+      "date": "2026-09-16",
+      "horizon": "H2",
+      "title": "Choisir la bonne architecture d'inspection pour AWS Network Firewall",
+      "summary": "Les équipes réseau exploitant des environnements multi-VPC et multi-comptes ont besoin d'une architecture d'inspection cohérente pour la conformité, la détection des menaces et le filtrage du trafic. Avec les trois modèles de déploiement désormais disponibles pour AWS Network Firewall (Inspection traditionnelle Amazon",
+      "source": "AWS Networking & Content Delivery",
+      "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/choosing-the-right-inspection-architecture-for-aws-network-firewall/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9ncy5taWNyb3NvZn",
+      "date": "2026-09-25",
+      "horizon": "H3",
+      "title": "Présentation du nouveau Copilot avec Home, Code et Autopilot",
+      "summary": "Nous réinventons Microsoft Copilot pour permettre le travail à mesure qu’il évolue et pour contribuer à élargir ce que chaque individu et chaque organisation peut accomplir dans le flux de l’ambition humaine. Aujourd'hui, nous présentons le nouveau Copilot pour connecter les outils sur lesquels les gens comptent avec l",
+      "source": "Microsoft Official Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9ncy5udmlkaWEuY2",
+      "date": "2026-09-23",
+      "horizon": "H3",
+      "title": "Lors de l'AI Day Singapore, NVIDIA et ses partenaires présentent les avancées de l'IA en Asie du Sud-Est",
+      "summary": "NVIDIA AI Day Singapore, qui se déroule les 22 et 23 septembre au Raffles City Convention Centre, offre aux participants la possibilité d'explorer la formation pratique, les sessions dirigées par des experts et les outils avancés pour accélérer leur travail dans le domaine de l'IA et du calcul haute performance. Lors d",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9kZXZlbG9wZXIubnZpZG",
+      "date": "2026-09-23",
+      "horizon": "H3",
+      "title": "Présentation de NV-Reason-CT Open 3D CT VLM pour le raisonnement en chaîne de pensée des radiologues",
+      "summary": "L’IA en radiologie a fait des progrès remarquables dans la détection des anomalies sur les radiographies pulmonaires, les diapositives pathologiques et les scans 2D. Pourtant, l'une des plus riches sur le plan clinique et... L'IA en radiologie a fait des progrès remarquables dans la détection des anomalies sur les radi",
+      "source": "NVIDIA Developer Blog",
+      "url": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm",
+      "date": "2026-09-18",
+      "horizon": "H3",
+      "title": "De nouveaux experts rejoignent l’équipe IA et économie de Google",
+      "summary": "Nous élargissons notre équipe IA et économie avec des conseillers académiques, des boursiers et des chercheurs internes de classe mondiale.",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm",
+      "date": "2026-08-27",
+      "horizon": "H3",
+      "title": "3 nouvelles façons de planifier et de réserver des voyages dans la recherche",
+      "summary": "Réservez des hôtels et suivez les tarifs aériens, et affichez les miles et les récompenses avec le mode IA dans la recherche Google.",
+      "source": "Google AI Blog",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9rcmVic29uc2VjdXJpdH",
+      "date": "2026-09-08",
+      "horizon": "H1",
+      "title": "Microsoft comble près de 1 000 failles de sécurité",
+      "summary": "Microsoft Corp. a publié aujourd'hui des mises à jour pour combler au moins 974 failles de sécurité dans ses systèmes d'exploitation Windows et autres logiciels, ce qui représente de loin le plus gros lot de correctifs jamais réalisé. Microsoft affirme que l'intelligence artificielle contribue à accélérer la découverte",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly9rdWJlcm5ldGVzLmlvL2",
+      "date": "2026-09-22",
+      "horizon": "H2",
+      "title": "Pleins feux sur les applications SIG",
+      "summary": "À mesure que l’adoption de Kubernetes s’est développée, la conversation s’est déplacée du cadre de l’exécution de conteneurs vers la gestion de cycles de vie d’applications de plus en plus complexes. Les plates-formes modernes prennent en charge les services Web sans état, les bases de données avec état, le traitement ",
+      "source": "Kubernetes Blog",
+      "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY25jZi5pby9ibG",
+      "date": "2026-09-25",
+      "horizon": "H2",
+      "title": "Security Slam 2026 – Édition automne",
+      "summary": "Security Slam 2026 – Fall Edition est un événement virtuel de 30 jours, du 5 octobre au 6 novembre 2026. Qu'est-ce que le Security Slam ? L'Open Source Security Foundation (OpenSSF) s'associe au Cloud Native Computing...",
+      "source": "CNCF Blog",
+      "url": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    }
+  ]
+}
