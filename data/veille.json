@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25",
+  "lastUpdated": "2026-09-26",
   "measurements": [
     {
       "date": "2026-09-25",
@@ -31,6 +31,20 @@
     },
     {
       "date": "2026-09-25",
+      "horizon": "H2",
+      "frequency": "Chaque mois",
+      "objective": "Approfondir mes connaissances sur le Cloud, l’automatisation, les infrastructures réseau et les solutions de cybersécurité",
+      "itemsCollected": 3,
+      "itemsRelevant": 3,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 1,
+      "note": "Première mesure automatique en cours de complétion : moins de 5 articles pertinents disponibles.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-09-26",
       "horizon": "H2",
       "frequency": "Chaque mois",
       "objective": "Approfondir mes connaissances sur le Cloud, l’automatisation, les infrastructures réseau et les solutions de cybersécurité",
