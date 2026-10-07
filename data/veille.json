@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06",
+  "lastUpdated": "2026-10-07",
   "measurements": [
     {
       "date": "2026-09-25",
@@ -196,6 +196,20 @@
       "note": "Première mesure automatique en cours de complétion : moins de 5 articles pertinents disponibles.",
       "source": "Flux RSS",
       "sourceUrl": ""
+    },
+    {
+      "date": "2026-10-07",
+      "horizon": "H2",
+      "frequency": "Chaque mois",
+      "objective": "Approfondir mes connaissances sur le Cloud, l’automatisation, les infrastructures réseau et les solutions de cybersécurité",
+      "itemsCollected": 4,
+      "itemsRelevant": 4,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 1,
+      "note": "Première mesure automatique en cours de complétion : moins de 5 articles pertinents disponibles.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
     }
   ],
   "items": [
@@ -348,6 +362,18 @@
       "summary": "Security Slam 2026 – Fall Edition est un événement virtuel de 30 jours, du 5 octobre au 6 novembre 2026. Qu'est-ce que le Security Slam ? L'Open Source Security Foundation (OpenSSF) s'associe au Cloud Native Computing...",
       "source": "CNCF Blog",
       "url": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY25jZi5pby9hbm",
+      "date": "2026-10-07",
+      "horizon": "H2",
+      "title": "La CNCF accueille OVHcloud, l'un des plus grands fournisseurs de cloud indépendants d'Europe, en tant que membre Platinum",
+      "summary": "La mise à niveau s'appuie sur l'engagement d'OVHcloud depuis plus d'une décennie en faveur de l'infrastructure ouverte, de l'interopérabilité et de la portabilité du cloud. Points forts PRAGUE – Open Source Summit Europe – 7 octobre 2026 – La Cloud Native Computing Foundation® (CNCF®), qui construit des écosystèmes dur",
+      "source": "CNCF Blog",
+      "url": "https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member/",
       "verified": false,
       "tags": [],
       "relevant": true
