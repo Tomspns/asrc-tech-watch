@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05",
+  "lastUpdated": "2026-11-06",
   "measurements": [
     {
       "date": "2026-09-25",
@@ -616,6 +616,34 @@
       "note": "Première mesure automatique en cours de complétion : moins de 5 articles pertinents disponibles.",
       "source": "Flux RSS",
       "sourceUrl": ""
+    },
+    {
+      "date": "2026-11-06",
+      "horizon": "H1",
+      "frequency": "Chaque semaine",
+      "objective": "Suivre les actualités, vulnérabilités et évolutions des systèmes, réseaux et de la cybersécurité",
+      "itemsCollected": 1,
+      "itemsRelevant": 1,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 0,
+      "note": "Nouvelle mesure automatique à partir des nouveaux articles pertinents des flux RSS.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
+    },
+    {
+      "date": "2026-11-06",
+      "horizon": "H2",
+      "frequency": "Chaque mois",
+      "objective": "Approfondir mes connaissances sur le Cloud, l’automatisation, les infrastructures réseau et les solutions de cybersécurité",
+      "itemsCollected": 4,
+      "itemsRelevant": 4,
+      "itemsVerified": 0,
+      "duplicates": 0,
+      "weakSignals": 1,
+      "note": "Première mesure automatique en cours de complétion : moins de 5 articles pertinents disponibles.",
+      "source": "Flux RSS",
+      "sourceUrl": ""
     }
   ],
   "items": [
@@ -780,6 +808,18 @@
       "summary": "La mise à niveau s'appuie sur l'engagement d'OVHcloud depuis plus d'une décennie en faveur de l'infrastructure ouverte, de l'interopérabilité et de la portabilité du cloud. Points forts PRAGUE – Open Source Summit Europe – 7 octobre 2026 – La Cloud Native Computing Foundation® (CNCF®), qui construit des écosystèmes dur",
       "source": "CNCF Blog",
       "url": "https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member/",
+      "verified": false,
+      "tags": [],
+      "relevant": true
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY29tbXVuaXR5Lm",
+      "date": "2026-11-05",
+      "horizon": "H1",
+      "title": "Nouveaux investissements pour réduire les risques de sécurité sur site",
+      "summary": "Nous annonçons une nouvelle initiative de sécurité sur site, réunissant conseils, migration et investissements dans les produits. L'article Nouveaux investissements pour réduire les risques de sécurité sur site apparaît en premier sur le blog de sécurité Microsoft.",
+      "source": "Microsoft Security Blog",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
       "verified": false,
       "tags": [],
       "relevant": true
